@@ -1,0 +1,13 @@
+[
+  [
+    "name" : "InformationRetrieval", 
+    "parameters" : [ 
+        "Option" : new StringDataType(), 
+    ],
+    "results" : [ 
+        "Result" : new ObjectDataType("java.util.Map") 
+    ], 
+    "displayName" : "OS information retriever", 
+    "icon" : "../../../../../../../../global/defaultmilestoneicon.png" 
+  ]
+]

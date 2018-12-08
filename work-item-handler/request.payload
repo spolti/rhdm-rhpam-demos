@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<map-type>
+    <entries>
+        <entry>
+            <!-- the available options are: user.name, user.home, user.lang and java.version -->
+            <key>InputOption</key>
+            <value xsi:type="xs:string" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">user.lang</value>
+        </entry>
+    </entries>
+</map-type>
